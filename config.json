@@ -84,14 +84,6 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    },
-    "afhapi9": {
-      "api": "http://fhapi9.com/api.php/provide/vod",
-      "name": "🔞番号资源",
-    },
-    "/91md.me": {
-      "api": "https://91md.me/api.php/provide/vod",
-      "name": "🔞91麻豆",
     }
   }
 }
