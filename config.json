@@ -88,6 +88,11 @@
     "afhapi9": {
       "api": "http://fhapi9.com/api.php/provide/vod",
       "name": "🔞番号资源",
+    },
+    "/91md.me": {
+      "name": "🔞91麻豆",
+      "api": "https://91md.me/api.php/provide/vod",
+      "detail": "https://91md.me"
     }
   }
 }
